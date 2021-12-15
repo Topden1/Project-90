@@ -1,0 +1,4 @@
+//I chose the forgetting to take the umbrella problem and you keep on getting wet.
+//The problem can be solved by having some sort of a reminder if you took an umbrella and a weather app which gives you a notification if its raining plus your temperature.
+//firebase can be used for the weather and reminders for if you took the umbrella and for the weather. 
+//For the temperature we can use some sort of function which helps determine your body heat, if your sick or not.
